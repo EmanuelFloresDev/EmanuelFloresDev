@@ -10,29 +10,29 @@ Soy estudiante de **Analista de Sistemas Empresariales** y actualmente estoy des
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
-### 🌐 Desarrollo Web
+###  Desarrollo Web
 
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
 
-### 🐍 Backend
+###  Backend
 
 <img src="https://skillicons.dev/icons?i=python,flask" />
 
-### ☕ Programación
+###  Programación
 
 <img src="https://skillicons.dev/icons?i=java" />
 
-### 🗄️ Bases de Datos
+###  Bases de Datos
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-### 🔧 Herramientas
+###  Herramientas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" />
 
-### ☁️ Servidores y Sistemas
+###  Servidores y Sistemas
 
 <img src="https://skillicons.dev/icons?i=aws,linux,bash" />
 
