@@ -1,39 +1,75 @@
 <div align="center">
 
-#  Hola, soy Emanuel Flores
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ5YjRrN2Q1aGZ6eTQ0aW1rN2M1b2V5dXl6dWJ3b3J5dG1qNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 
-**Junior Developer**
+# 👋 Hola, soy **Emanuel Flores**
 
-Soy estudiante de **Analista de Sistemas Empresariales** y actualmente estoy desarrollando mis habilidades en programación, desarrollo web, bases de datos y administración de servidores.
+### 💻 Junior Developer
 
-🚀 Me gusta aprender creando proyectos y seguir mejorando mis conocimientos mediante la práctica.
+**Analista de Sistemas Empresariales**
+
+Desarrollador en formación enfocado en **desarrollo web, programación, bases de datos y tecnologías cloud**.
+
+🚀 *Aprendiendo, creando y mejorando mediante proyectos reales.*
+
+</div>
 
 ---
 
-##  Tecnologías y herramientas
+<div align="center">
 
-###  Desarrollo Web
+## 🛠️ Tecnologías y herramientas
+
+### 🌐 Desarrollo Web
 
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
 
-###  Backend
+### 🐍 Backend
 
 <img src="https://skillicons.dev/icons?i=python,flask" />
 
-###  Programación
+### ☕ Programación
 
 <img src="https://skillicons.dev/icons?i=java" />
 
-###  Bases de Datos
+### 🗄️ Bases de Datos
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-###  Herramientas
+### 🔧 Herramientas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" />
 
-###  Servidores y Sistemas
+### ☁️ Cloud & Sistemas
 
 <img src="https://skillicons.dev/icons?i=aws,linux,bash" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📚 Actualmente aprendiendo
+
+**Desarrollo Web** · **Python & Flask** · **Java & POO** · **MySQL** · **Git & GitHub** · **AWS**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Mi objetivo
+
+Seguir creciendo como desarrollador, fortalecer mis conocimientos en **desarrollo de software** y construir proyectos cada vez más completos.
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 *Code. Learn. Build. Repeat.*
 
 </div>
