@@ -34,6 +34,6 @@ Soy estudiante de **Analista de Sistemas Empresariales** y actualmente estoy des
 
 ### ☁️ Servidores y Sistemas
 
-<img src="https://skillicons.dev/icons?i=linux,aws,apache,bash" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" />
 
 </div>
