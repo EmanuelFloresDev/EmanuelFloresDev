@@ -2,15 +2,20 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" width="100%" />
 
-# 👋 Hola, soy **Emanuel Flores**
+<br>
 
-### 💻 Junior Developer
+# Hola, soy **Emanuel Flores**
+
+### Junior Developer
 
 **Analista de Sistemas Empresariales**
 
-Desarrollador en formación enfocado en **desarrollo web, programación, bases de datos y tecnologías cloud**.
+Desarrollador en formación enfocado en **desarrollo web, programación,
+bases de datos y tecnologías cloud**.
 
-🚀 *Aprendiendo, creando y mejorando mediante proyectos reales.*
+*Construyendo proyectos, aprendiendo nuevas tecnologías y creciendo como desarrollador.*
+
+<br>
 
 </div>
 
@@ -18,29 +23,25 @@ Desarrollador en formación enfocado en **desarrollo web, programación, bases d
 
 <div align="center">
 
-## 🛠️ Tecnologías y herramientas
+## Tech Stack
 
-### 🌐 Desarrollo Web
+### Desarrollo Web
 
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
 
-### 🐍 Backend
+### Backend y Programación
 
-<img src="https://skillicons.dev/icons?i=python,flask" />
+<img src="https://skillicons.dev/icons?i=python,flask,java" />
 
-### ☕ Programación
-
-<img src="https://skillicons.dev/icons?i=java" />
-
-### 🗄️ Bases de Datos
+### Bases de Datos
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-### 🔧 Herramientas
+### Herramientas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" />
 
-### ☁️ Cloud & Sistemas
+### Cloud y Sistemas
 
 <img src="https://skillicons.dev/icons?i=aws,linux,bash" />
 
@@ -50,7 +51,7 @@ Desarrollador en formación enfocado en **desarrollo web, programación, bases d
 
 <div align="center">
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 **Desarrollo Web** · **Python & Flask** · **Java & POO** · **MySQL** · **Git & GitHub** · **AWS**
 
@@ -60,9 +61,13 @@ Desarrollador en formación enfocado en **desarrollo web, programación, bases d
 
 <div align="center">
 
-## 🎯 Mi objetivo
+## Sobre mí
 
-Seguir creciendo como desarrollador, fortalecer mis conocimientos en **desarrollo de software** y construir proyectos cada vez más completos.
+Estudiante de **Analista de Sistemas Empresariales**, enfocado en desarrollar
+mis habilidades mediante la práctica y la creación de proyectos.
+
+Me interesa seguir fortaleciendo mis conocimientos en **desarrollo de software,
+bases de datos, backend y tecnologías cloud**.
 
 </div>
 
@@ -70,6 +75,16 @@ Seguir creciendo como desarrollador, fortalecer mis conocimientos en **desarroll
 
 <div align="center">
 
-### 💻 *Code. Learn. Build. Repeat.*
+## GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=EmanuelFloresDev&show_icons=true&hide_border=true&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Code. Learn. Build. Repeat.
 
 </div>
