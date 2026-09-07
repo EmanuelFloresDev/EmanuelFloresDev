@@ -1,23 +1,18 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
 
 <br>
 
-<h1 style="color:#00ff88;">Hola, soy Emanuel Flores</h1>
+# Hola, soy Emanuel Flores
 
-<h3 style="color:#00e5ff;">Junior Developer</h3>
+### Junior Developer
 
-<strong>Analista de Sistemas Empresariales</strong>
+**Analista de Sistemas Empresariales**
 
-<p>
-Desarrollador en formación enfocado en
-<strong>desarrollo web, programación, bases de datos y tecnologías cloud.</strong>
-</p>
+Desarrollador en formación enfocado en **desarrollo web, programación, bases de datos y tecnologías cloud**.
 
-<p>
-<i>Construyendo proyectos, aprendiendo nuevas tecnologías y creciendo como desarrollador.</i>
-</p>
+*Construyendo proyectos, aprendiendo nuevas tecnologías y creciendo como desarrollador.*
 
 <br>
 
@@ -27,35 +22,35 @@ Desarrollador en formación enfocado en
 
 <div align="center">
 
-<h2 style="color:#00e5ff;">Tech Stack</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0:00E5FF,100:0066FF&text=TECH%20STACK&fontColor=FFFFFF&fontSize=24&fontAlignY=55" width="100%" />
 
-<hr width="50%" />
+<br>
 
-<h3 style="color:#00d9ff;">Desarrollo Web</h3>
+### Desarrollo Web
 
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
 
 <br><br>
 
-<h3 style="color:#ffd43b;">Backend y Programación</h3>
+### Backend y Programación
 
 <img src="https://skillicons.dev/icons?i=python,flask,java" />
 
 <br><br>
 
-<h3 style="color:#4dabf7;">Bases de Datos</h3>
+### Bases de Datos
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 <br><br>
 
-<h3 style="color:#ff922b;">Herramientas</h3>
+### Herramientas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" />
 
 <br><br>
 
-<h3 style="color:#b197fc;">Cloud y Sistemas</h3>
+### Cloud y Sistemas
 
 <img src="https://skillicons.dev/icons?i=aws,linux,bash" />
 
@@ -65,18 +60,11 @@ Desarrollador en formación enfocado en
 
 <div align="center">
 
-<h2 style="color:#00ff88;">Actualmente aprendiendo</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0:00FF88,100:008844&text=ACTUALMENTE%20APRENDIENDO&fontColor=FFFFFF&fontSize=22&fontAlignY=55" width="100%" />
 
-<hr width="40%" />
+<br>
 
-<p>
-<strong>Desarrollo Web</strong> ·
-<strong>Python & Flask</strong> ·
-<strong>Java & POO</strong> ·
-<strong>MySQL</strong> ·
-<strong>Git & GitHub</strong> ·
-<strong>AWS</strong>
-</p>
+**Desarrollo Web** · **Python & Flask** · **Java & POO** · **MySQL** · **Git & GitHub** · **AWS**
 
 </div>
 
@@ -84,21 +72,13 @@ Desarrollador en formación enfocado en
 
 <div align="center">
 
-<h2 style="color:#f8f9fa;">Sobre mí</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0:FFFFFF,100:555555&text=SOBRE%20M%C3%8D&fontColor=000000&fontSize=24&fontAlignY=55" width="100%" />
 
-<hr width="30%" />
+<br>
 
-<p>
-Estudiante de <strong>Analista de Sistemas Empresariales</strong>,
-enfocado en desarrollar mis habilidades mediante la práctica
-y la creación de proyectos.
-</p>
+Estudiante de **Analista de Sistemas Empresariales**, enfocado en desarrollar mis habilidades mediante la práctica y la creación de proyectos.
 
-<p>
-Me interesa seguir fortaleciendo mis conocimientos en
-<strong>desarrollo de software, bases de datos, backend
-y tecnologías cloud.</strong>
-</p>
+Me interesa seguir fortaleciendo mis conocimientos en **desarrollo de software, bases de datos, backend y tecnologías cloud**.
 
 </div>
 
@@ -106,6 +86,6 @@ y tecnologías cloud.</strong>
 
 <div align="center">
 
-<h3 style="color:#00ff88;">Code. Learn. Build. Repeat.</h3>
+### Code. Learn. Build. Repeat.
 
 </div>
