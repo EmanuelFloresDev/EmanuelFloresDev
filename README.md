@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hola, soy Emanuel Flores
 
 💻 **Junior Developer**
@@ -6,40 +8,32 @@ Soy estudiante de **Analista de Sistemas Empresariales** y actualmente estoy des
 
 🚀 Me gusta aprender creando proyectos y seguir mejorando mis conocimientos mediante la práctica.
 
+---
+
 ## 🛠️ Tecnologías y herramientas
 
 ### 🌐 Desarrollo Web
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
 
 ### 🐍 Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,flask" />
 
 ### ☕ Programación
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
+<img src="https://skillicons.dev/icons?i=java" />
 
 ### 🗄️ Bases de Datos
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 ### 🔧 Herramientas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" />
 
 ### ☁️ Servidores y Sistemas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,aws,apache,bash" />
-</p>
+<img src="https://skillicons.dev/icons?i=linux,aws,apache,bash" />
+
+</div>
