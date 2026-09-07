@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hola, soy Emanuel Flores
+#  Hola, soy Emanuel Flores
 
-💻 **Junior Developer**
+**Junior Developer**
 
 Soy estudiante de **Analista de Sistemas Empresariales** y actualmente estoy desarrollando mis habilidades en programación, desarrollo web, bases de datos y administración de servidores.
 
