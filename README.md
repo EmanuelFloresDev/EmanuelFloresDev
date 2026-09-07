@@ -75,16 +75,6 @@ bases de datos, backend y tecnologías cloud**.
 
 <div align="center">
 
-## GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=EmanuelFloresDev&show_icons=true&hide_border=true&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
 ### Code. Learn. Build. Repeat.
 
 </div>
