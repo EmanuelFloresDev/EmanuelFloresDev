@@ -68,17 +68,11 @@ Desarrollador en formación enfocado en **desarrollo web, programación, bases d
 
 </div>
 
----
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0:FFFFFF,100:555555&text=SOBRE%20M%C3%8D&fontColor=000000&fontSize=24&fontAlignY=55" width="100%" />
 
-<br>
 
-Estudiante de **Analista de Sistemas Empresariales**, enfocado en desarrollar mis habilidades mediante la práctica y la creación de proyectos.
-
-Me interesa seguir fortaleciendo mis conocimientos en **desarrollo de software, bases de datos, backend y tecnologías cloud**.
 
 </div>
 
